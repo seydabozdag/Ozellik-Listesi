@@ -1,5 +1,4 @@
 1. Kendi ilgi alanlarımıza göre panolar oluşturma,
 2. Videolara ya da blog yazılarına ulaşma,
-3. İlgilenilen konularla ilgili görsellere ulaşma,
-4. Kendimize ait görsel, video veya blog sitesi gibi PIN üretme
-5. Takipleşmek
+3. Kendimize ait görsel, video veya blog sitesi gibi PIN üretme
+4. Takipleşmek
